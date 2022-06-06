@@ -13,7 +13,8 @@ We want to find answers to the questions below:
  
  c. What influences a successful rocket landing
 
-This project is separated in 8 notebooks that span from data gathering to exploratory data analysis to using machine learning algorithms to find the answers we seek
+This project is separated in 8 notebooks that span from data gathering to exploratory data analysis to using machine learning algorithms to find the answers we seek.
+
 Find the breakdown below:
 
 Part 1 - Data Collection API notebook
