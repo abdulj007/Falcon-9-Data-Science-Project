@@ -32,3 +32,5 @@ Find the breakdown below:
     Part 7 - Interactive dashboard with Plotly Dash
 
     Part 8 - Machine Learning Prediction Notebook
+
+You can view the presenation in this pdf [document](https://github.com/abdulj007/Falcon-9-Data-Science-Project/blob/main/SpaceX%20Research%20presenation.pdf) or this powerpoint [slide](https://github.com/abdulj007/Falcon-9-Data-Science-Project/blob/main/SpaceX%20Research%20presentation.pptx)
