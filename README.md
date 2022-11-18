@@ -9,9 +9,9 @@ We want to find answers to the questions below:
 
   a. The price of each launch.
  
-  b. Which Parameters determine if the first stage can be reused.
+  b. What parameters determine if the first stage can be reused.
  
-  c. What influences a successful rocket landing
+  c. What parameters predicts a successful rocket landing
 
 This project is separated in 8 notebooks that span from data gathering to exploratory data analysis to using machine learning algorithms to find the answers we seek.
 
