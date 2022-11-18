@@ -17,9 +17,9 @@ This project is separated in 8 notebooks that span from data gathering to explor
 
 Find the breakdown below:
 
-    Part 1 - Data Collection API notebook
+    Part 1 - Data Collection from SpaceX API 
 
-    Part 2 - Data Collection with Web Scraping
+    Part 2 - Data Collection by Web Scraping SpaceX wikipedia launches
 
     Part 3 - Data Wrangling
 
